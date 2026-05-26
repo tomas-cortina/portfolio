@@ -94,7 +94,7 @@ const HeroSection = () => {
                                         nativeButton={false}
                                         render={
                                             <a
-                                                href={'/ResumeTomasCortina.pdf'}
+                                                href={'/resume/ResumeTomasCortina.pdf'}
                                                 download
                                             >
                                                 Download Resume
