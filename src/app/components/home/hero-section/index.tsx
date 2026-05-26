@@ -56,7 +56,7 @@ const HeroSection = () => {
                                     </p>
                                 </div>
                             </div>
-                            <div className="flex flex-col md:flex-row bg-blue-500 items-center gap-4">
+                            <div className="flex flex-col md:flex-row items-center gap-4">
                                 <div className="flex items-center gap-2">
                                     {socialIcon?.map((value, index) => {
                                         return (
