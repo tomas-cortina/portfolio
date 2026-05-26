@@ -6,12 +6,12 @@ const HeroSection = () => {
     const socialIcon = [
         {
             img: '/images/icon/linkedin-icon.svg',
-            href: 'www.linkedin.com/in/tomas-cortina',
+            href: 'https://www.linkedin.com/in/tomas-cortina',
             icon: 'LinkedIn',
         },
         {
             img: '/images/icon/github-icon.svg',
-            href: 'https://github.com',
+            href: 'https://github.com/tomas-cortina',
             icon: 'GitHub',
         },
     ];
@@ -94,7 +94,9 @@ const HeroSection = () => {
                                         nativeButton={false}
                                         render={
                                             <a
-                                                href={'/resume/ResumeTomasCortina.pdf'}
+                                                href={
+                                                    '/resume/ResumeTomasCortina.pdf'
+                                                }
                                                 download
                                             >
                                                 Download Resume
