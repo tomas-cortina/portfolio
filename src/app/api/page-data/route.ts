@@ -107,11 +107,11 @@ const projectOverview = {
         },
         {
             name: 'Portfolio',
-            url: 'https://github.com/tomas-cortina/tomas-cortina-lp',
+            url: 'https://github.com/tomas-cortina/portfolio',
         },
         {
             name: 'SHA3 Interactive Demo',
-            url: 'https://github.com/tomas-cortina/sha3-interactive-demo/tree/main',
+            url: 'https://github.com/tomas-cortina/sha3-interactive-demo',
         },
         { name: '.NET-Angular E-commerce', comingSoon: true },
     ],
