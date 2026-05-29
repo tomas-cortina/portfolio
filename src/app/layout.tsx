@@ -10,7 +10,7 @@ const inter = Inter({
 export const metadata: Metadata = {
     title: 'Tomas Cortina',
     description:
-        'This is Tomas Cortina personal portfolio website built with Next.js and shadcn/ui. Showcasing my projects, skills, and experience as a Junior Full-Stack Developer.',
+        'This is Tomas Cortina personal portfolio website built with Next.js and shadcn/ui. Showcasing my projects, skills, and experience as a Full-Stack Developer.',
     icons: {
         icon: '/images/profile/icon.png',
     },

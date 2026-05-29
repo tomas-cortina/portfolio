@@ -42,7 +42,7 @@ const HeroSection = () => {
                             <div className="flex flex-col  gap-2 sm:gap-3 items-center text-center xs:items-start">
                                 <h1>Tomás Cortina</h1>
                                 <p className="text-slate-600 font-normal">
-                                    Junior Full-Stack Developer
+                                    Full-Stack Developer
                                 </p>
                                 <div className="flex items-center bo gap-2">
                                     <Image
